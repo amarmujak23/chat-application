@@ -10,6 +10,8 @@ Session Handling: Tracks user sessions and logs them in/out, maintaining session
 Message Formatting: Supports basic text formatting like bold and italic using markdown-like syntax.
 Timestamp Display: Messages display the time they were sent in the user's local time zone.
 Responsive Design: The interface adapts to different screen sizes for seamless user experience.
+
+
 Technologies Used:
 HTML/CSS/JavaScript: Front-end development for creating the user interface and client-side functionality.
 PHP: Backend scripting language for managing user sessions, handling form submissions, and generating HTML content.
